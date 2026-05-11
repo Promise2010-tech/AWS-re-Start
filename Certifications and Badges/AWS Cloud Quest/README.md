@@ -4,10 +4,28 @@ Certification: AWS Cloud Quest
 **Started:** 27 May 2026
 **Completed:** 1 April 2026
 ## Topics Covered
--
+-During the AWS Cloud Quest learning experience, I explored and gained hands-on exposure to the following core cloud computing topics:
+
+Introduction to Cloud Computing and AWS
+AWS Global Infrastructure (Regions, Availability Zones, Edge Locations)
+Amazon EC2 (Elastic Compute Cloud) and compute options
+Amazon S3 (Simple Storage Service) and object storage concepts
+AWS IAM (Identity and Access Management) and security best practices
+Networking fundamentals (VPC, subnets, security groups)
+AWS pricing models and cost management basics
+Monitoring and troubleshooting using AWS tools
 
 ## Key Takeaways
--
+Understood how AWS cloud services replace traditional on-premise infrastructure
+Gained practical knowledge of deploying and managing AWS resources
+Learned how to secure cloud environments using IAM roles and policies
+Developed awareness of cost optimization and budgeting in the cloud
+Improved understanding of scalable, resilient cloud architectures
+Built confidence navigating the AWS Management Console
 
 ## Resources
--
+-AWS Cloud Quest (AWS Skill Builder platform)
+AWS Documentation: https://docs.aws.amazon.com/
+AWS Well-Architected Framework
+AWS Free Tier hands-on practice labs
+Cloud computing foundational learning modules (AWS Skill Builder)
