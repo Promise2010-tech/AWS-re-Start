@@ -1,9 +1,8 @@
-# Simulearn 1
+Certification: AWS Cloud Quest
 
-**Status:** In progress
-**Started:** _date_
-**Completed:** _date_
-
+**Status:** Complete
+**Started:** 27 May 2026
+**Completed:** 1 April 2026
 ## Topics Covered
 -
 
