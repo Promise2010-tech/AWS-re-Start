@@ -1,2 +1,2 @@
 # AWS-re-Start
-A portfolio repository demonstrating hands-on AWS cloud labs, projects, and technical activities completed during the AWS re/Start program.
+Hi, I'm Promise Sibanda, an aspiring cloud and tech professional currently building hands-on experience through the AWS re/Start program. This repository showcases labs, projects, and practical activities demonstrating my understanding of cloud computing, Linux, networking, security, and AWS services.
