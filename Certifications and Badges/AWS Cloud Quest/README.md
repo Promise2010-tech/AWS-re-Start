@@ -1,5 +1,9 @@
 Certification: AWS Cloud Quest
 
+<a href="https://www.credly.com/badges/9c3f342c-12f0-4030-997e-023271fec675/public_url">
+  <img src="YOUR_BADGE_IMAGE_URL" alt="AWS Cloud Practitioner Badge" width="150">
+</a>
+
 **Status:** Complete
 **Started:** 27 May 2026
 **Completed:** 1 April 2026
