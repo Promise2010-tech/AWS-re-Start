@@ -1,7 +1,7 @@
 Certification: AWS Cloud Quest
 
 <a href="https://www.credly.com/badges/9c3f342c-12f0-4030-997e-023271fec675/public_url">
-  <img src="https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Practitioner Badge" width="150">
+  <img src="https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Practitioner Badge">
 </a>
 
 **Status:** Complete
